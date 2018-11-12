@@ -1,5 +1,5 @@
 # dynamo-filter
 
-# License
+## License
 
 Released under [MIT License](./LICENSE).
